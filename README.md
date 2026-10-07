@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**haimehenn/haimehenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nehemiah
 
-Here are some ideas to get you started:
+**Independent developer · Discord bots & tooling**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[discord](https://discord.gg/CGjgrCAQfn) · [youtube](https://youtube.com/@haimehenn)
+
+</div>
+
+---
+
+## about
+
+> Independent developer. I build Discord bots and the tooling around them,
+> turning ideas into real things.
+
+I ship bots from concept to commit: moderation and security, music, utilities,
+dashboards and APIs. Always working on something new, always open to feedback.
+
+---
+
+## stack
+
+`javascript` `node` `discord.js` `python` `mongodb` `supabase` `docker` `git` `linux`
+
+---
+
+## projects
+
+**[Project-One](https://github.com/yourname/project-one)** · `javascript, discord.js`  
+Short one-line description of your flagship bot.
+
+---
+
+## stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourname&theme=dark&hide_border=true" alt="streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=dark&hide_border=true" alt="top languages" height="150" />
+</p>
+
+---
+
+<div align="center">
+
+[![Profile views](https://komarev.com/ghpvc/?username=yourname&style=flat-square&color=blue)](https://github.com/haimehenn)
+
+</div>
