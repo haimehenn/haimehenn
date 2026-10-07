@@ -29,7 +29,7 @@ dashboards and APIs. Always working on something new, always open to feedback.
 ## projects
 
 **[Project-One](https://github.com/yourname/project-one)** · `javascript, discord.js`  
-Short one-line description of your flagship bot.
+Created one of the **most** powerful discord’s Anti-Nuke bot.
 
 ---
 
