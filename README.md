@@ -39,6 +39,9 @@ Created one of the **most** powerful discord’s Anti-Nuke bot.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourname&theme=dark&hide_border=true" alt="streak" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=dark&hide_border=true" alt="top languages" height="150" />
+  <a href="https://top.gg/bot/1545337420315365376">
+  <img src="https://top.gg/api/widget/1545337420315365376.svg">
+</a>
 </p>
 
 ---
